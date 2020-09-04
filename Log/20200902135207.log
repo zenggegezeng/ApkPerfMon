@@ -1,0 +1,15 @@
+2020-09-02 13:52:11,003 - root - INFO - 关闭adb服务成功
+2020-09-02 13:52:19,088 - root - INFO - 启动adb服务成功
+2020-09-02 13:52:31,179 - root - INFO - 192.168.1.102:5555-->>设备连接成功
+2020-09-02 13:52:31,225 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,308 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,353 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,398 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,442 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,491 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,534 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,577 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,623 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,672 - root - INFO - application is not running-->>请启动要测试的应用
+2020-09-02 13:52:31,672 - root - INFO - 字典数据写入--H:\project\ApkPerfMon\Data\cpu_data--文件成功
+2020-09-02 13:52:31,673 - root - INFO - 字典数据写入--H:\project\ApkPerfMon\Data\mem_data--文件成功

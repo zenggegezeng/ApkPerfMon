@@ -1,0 +1,13 @@
+2020-09-02 14:04:25,151 - root - INFO - 192.168.1.102:5555-->>设备连接成功
+2020-09-02 14:04:28,903 - root - INFO - CPU: 0%, mem: 68049KB--66MB--6%
+2020-09-02 14:04:32,838 - root - INFO - CPU: 0%, mem: 67966KB--66MB--6%
+2020-09-02 14:04:36,676 - root - INFO - CPU: 1%, mem: 67874KB--66MB--6%
+2020-09-02 14:04:40,503 - root - INFO - CPU: 1%, mem: 67894KB--66MB--6%
+2020-09-02 14:04:44,326 - root - INFO - CPU: 1%, mem: 67894KB--66MB--6%
+2020-09-02 14:04:48,220 - root - INFO - CPU: 1%, mem: 67982KB--66MB--6%
+2020-09-02 14:04:51,994 - root - INFO - CPU: 1%, mem: 68119KB--66MB--6%
+2020-09-02 14:04:56,092 - root - INFO - CPU: 8%, mem: 63772KB--62MB--6%
+2020-09-02 14:05:00,452 - root - INFO - CPU: 56%, mem: 133223KB--130MB--13%
+2020-09-02 14:05:04,261 - root - INFO - CPU: 39%, mem: 138578KB--135MB--13%
+2020-09-02 14:05:04,262 - root - INFO - 字典数据写入--H:\project\ApkPerfMon\Data\cpu_data--文件成功
+2020-09-02 14:05:04,262 - root - INFO - 字典数据写入--H:\project\ApkPerfMon\Data\mem_data--文件成功
